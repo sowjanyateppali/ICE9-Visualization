@@ -89,13 +89,12 @@ All pages are connected through a common navigation bar for smooth access.
 
 ## 8. Folder Contents
 ```bash
-    Kv_Store/
         ICE9-Visualization/
             │
             ├── data/
             │ └── company_growth.csv
             │
-            ├── site/
+            ├── docs/
             │ ├── index.html
             │ ├── scatter.html
             │ ├── bar.html
